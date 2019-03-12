@@ -61,7 +61,7 @@ It will printone of these:
 - RAVIOLI
 - MAMA MIA
 
-So, now we're going to use **SPECIAL FUNCTIONS**
+So, now we're going to use **SPECIAL FUNCTIONS** <br>
 It sounds badass, because it is (jk, this is still in basic commands)
 
 Code reader will know when to use these special functions, because there is always **!** before them
@@ -71,7 +71,7 @@ Cheatsheet of functions:
 - ran *puts random variable*
 - fromTo *puts random variable of specific range* 
 - numOfChars *number of characters in the variable* 
-- newLine *goes to a new line*
+- newLine *goes to a new line* <br>
 *! newLine can be replaced with ~ in the text itself. Example:*
 ~~~~
 bob:,,i_love_hamburgers!"~ross:,,yeah_me_too" 
