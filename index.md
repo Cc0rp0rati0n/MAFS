@@ -6,5 +6,5 @@ MAFS is a programing language that uses variables and mathematical operators (th
 
 
 <p align="center">
-  <b>Introduction to MAFS</b><br><br>
+  <font size="36">Basic Commands:y</font><br><br>
 </p>
