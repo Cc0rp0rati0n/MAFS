@@ -11,18 +11,22 @@ MAFS is a programing language that uses variables and mathematical operators (th
 MAFS is a cart / code loader which means that you can edit and write code wherever you want (even in notepad)
 On the start there's something called <em>variable defining</em> . That means that you write the starter values of variables.
 The best way to show you will be an example:
-´
+~~~~
 24 
 36 
 _ 
 (add: 1 2 ) 
 print= 1 / 
-´
+~~~~
 If you don't know what anything of this means, you are not the only.
 So, back on track, section 24 36 _ is variable defining.
 - 24 represents the first variable
 - 36 represents the second variable 
 - _ **represents the end of variable defining and starts behaviour**
+
+*Underscore always represents the end of variable defining and starts behaviour*
+
+***NOTE: ALWAYS PUT A SPACE AFTER A LINE, AFTER VARIABLE DEFINING AND BEHAVIOUR***
 
 <p align="center">
   <b><h2>Basic Commands:</h2></b>
