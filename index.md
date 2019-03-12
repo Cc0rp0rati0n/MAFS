@@ -2,4 +2,4 @@
   <b>Introduction to MAFS</b><br><br>
 </p>
 
-MAFS 
+MAFS is a programing language that uses variables and mathematical operators (that's what M stands for) to run.
