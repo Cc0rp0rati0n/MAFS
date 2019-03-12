@@ -35,3 +35,53 @@ So, back on track, section 24 36 _ is variable defining.
   <b> print= </b><br>
   <em> Print= command is used to print out variables on the screen. </em>
 </p>
+~~~~
+hello_world! 
+hello_test 
+_ 
+print= 1 2 / 
+~~~~
+
+It printed: HELLO WORLD! HELLO TEST
+
+From an example you can see that it doesn't print the value you put in, but number of *variable* you put in.
+Here's another example:
+~~~~
+pizza 
+spageti 
+ravioli 
+mama_mia 
+_ 
+print= ! ran / 
+~~~~
+
+It will printone of these:
+- PIZZA
+- SPAGETI
+- RAVIOLI
+- MAMA MIA
+
+So, now we're going to use **SPECIAL FUNCTIONS**
+It sounds badass, because it is (jk, this is still in basic commands)
+
+Code reader will know when to use these special functions, because there is always **!** before them
+***NOTE: FUNCTIONS ARE NOT IN TYPE !FUNCTION, BUT ! FUNCTION***
+
+Cheatsheet of functions:
+- ran *puts random variable*
+- fromTo *puts random variable of specific range* 
+- numOfChars *number of characters in the variable* 
+- newLine *goes to a new line*
+*! newLine can be replaced with ~ in the text itself. Example:*
+~~~~
+bob:,,i_love_hamburgers!"~ross:,,yeah_me_too" 
+_ 
+print= 1 / 
+~~~~
+Prints:
+BOB:,,I LOVE HAMBURGERS!"
+ROSS:,,YEAH  ME TOO"
+
+***OTHER NOTES:***
+***TO FINISH THE PRINT= COMMAND TYPE "/" (DON'T FORGET A SPACE)***
+***PRINT FUNCTION DOESN'T PRINT UNDERSCORES***
