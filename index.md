@@ -9,5 +9,6 @@ MAFS is a programing language that uses variables and mathematical operators (th
   <b><h2>Basic Commands:</h2></b>
 </p>
 <p align="center">
-  <b> print= </b>
+  <b> print= </b><br>
+  <em> Print= command is used to print out variables on the screen. </em>
 </p>
