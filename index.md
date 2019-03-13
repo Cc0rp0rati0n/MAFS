@@ -85,3 +85,28 @@ ROSS:,,YEAH  ME TOO"
 ***OTHER NOTES:***<br>
 ***TO FINISH THE PRINT= COMMAND TYPE "/" (DON'T FORGET A SPACE)***<br>
 ***PRINT FUNCTION DOESN'T PRINT UNDERSCORES***
+<br>
+<p align="center">
+  <b> getInput </b><br>
+  <em> GetInput command is used to store th text player typed. </em>
+</p>
+<br>
+I think definition speaks for itself, but i will give you an example
+~~~~
+number_one? 
+number_two? 
+_ 
+print= 1 / 
+getInput 
+print= 2 / 
+getInput 
+(calc: 3 ; 4 ) 
+print= 3 / 
+~~~~
+So here you can see that **getInput** creates a new variable which is equal to a thing you typed in the input box.
+<br>
+<p align="center">
+  <b> stop </b><br>
+  <em> Stops the whole game. </em>
+</p>
+<br>
