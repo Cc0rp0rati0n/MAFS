@@ -142,3 +142,11 @@ Got it?
 </p>
 <br>
 ***VALUE IS VALUE LIKE "LOL", FOR EXAMPLE, WHERE VARIABLE IS 1="LOL"***<br>
+
+Overwrite also has special functions ! ran and ! fromTo which work the same way.
+
+<br>
+<p align="center">
+  <b> (add: x y ) </b><br>
+  <em> overwrites x variable with y VALUE.</em>
+</p>
