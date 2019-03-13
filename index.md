@@ -110,3 +110,35 @@ So here you can see that **getInput** creates a new variable which is equal to a
   <em> Stops the whole game. </em>
 </p>
 <br>
+<p align="center">
+  <b><h2>Variable / Mathematical Commands:</h2></b>
+</p>
+<p align="center">
+  <b> (if: cn x y z w ) </b><br>
+  <em> Goes to z element if something is true. Goes to w element if it's false.</em>
+</p>
+<br>
+
+cn is replaced with ***command name***
+(command name can be:
+equal
+notEqual
+)
+
+equal: Goes to z element if x is equal y. Goes to w element if else.<br>
+notEqual: Goes to z element if x is **NOT** equal y. Goes to w element if else.
+<br>
+***Now, element isn't equal line***<br>
+Let me show you what's an element:
+~~~~
+  print= 1 2 3 4 / 
+    1    2 3 4 5 6 
+~~~~
+Got it?
+<br>
+<p align="center">
+  <b> overwrite x y </b><br>
+  <em> overwrites x variable with y VALUE.</em>
+</p>
+<br>
+***VALUE IS VALUE LIKE "LOL", FOR EXAMPLE, WHERE VARIABLE IS 1="LOL"***<br>
